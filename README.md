@@ -2,7 +2,7 @@
 Duarcion: 1 semana (5 días laborales)
 
 ## 1. Definir el objetivo del sprint   
-- Semana 1: Completar el **registro e inicio de sesión de usuarios** con funcionalidad básica y pruebas.
+- Semana 1: Desarrollar una aplicación móvil eficiente a los usuarios registrar pedidos de comida en restaurantes cercanos, realizar pagos seguros, optimizando la experiencia tanto para clientes como para repartidores y restaurantes.
 
 ## 2. Planificación (Día 1 - Mañana)  
 - Reunión de Sprint Planning con todo el equipo (PO, SM, Dev Team).  
